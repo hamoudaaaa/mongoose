@@ -1,0 +1,22 @@
+{
+    "name": "mongcheck",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "back": "nodemon server"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "back": "^1.0.2",
+        "express": "^4.17.1",
+        "mongoose": "^5.12.5",
+        "run": "^1.4.0"
+    },
+    "devDependencies": {
+        "dotenv": "^8.2.0",
+        "nodemon": "^2.0.7"
+    }
+}
